@@ -1,5 +1,6 @@
 // Abstract parent class
 abstract class Bank {
+    // Abstract method
     abstract public void intrestRate();
 }
 
